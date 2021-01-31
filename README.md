@@ -2,6 +2,8 @@
 
 ### Cara Penggunaan :
 * Install NodeJS
+* Buka CMD Folder BOT nya
+* Ketik `npm init` lalu enter
 * Install Module Dengan Ketik
 `npm i puppeteer delay moment wait-for-event events readline-sync`
 
