@@ -1,2 +1,2 @@
-email|pass
-email|pass
+mailzansatu@gmail.com|Sandiemailnya
+mailzantiga@gmail.com|Sandiemailnya
